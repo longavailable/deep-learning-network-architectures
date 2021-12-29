@@ -16,3 +16,11 @@ Source link: <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR0293
 ## Residual block + skipping connection
 
 ![SRDRN](/pics/residual-block+skipping-connection.png)
+
+## DeepSD using stacked SRCNNs
+
+Source link: <https://doi.org/10.1145/3097983.3098004>, <https://repository.library.northeastern.edu/files/neu:cj82st065>
+
+![SRCNN](/pics/Vandal-2017-SRCNN.png)
+
+![DeepSD](/pics/Vandal-2017-DeepSD-using-stacked-SRCNNs.png)

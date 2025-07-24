@@ -24,3 +24,9 @@ Source link: <https://doi.org/10.1145/3097983.3098004>, <https://repository.libr
 ![SRCNN](/pics/Vandal-2017-SRCNN.png)
 
 ![DeepSD](/pics/Vandal-2017-DeepSD-using-stacked-SRCNNs.png)
+
+## VGG16
+
+Source link: <https://viso.ai/deep-learning/vgg-very-deep-convolutional-networks/>, <https://arxiv.org/abs/1409.1556v6>.
+
+![VGG16](/pics/VGG16-visual-geometry-group.png)
